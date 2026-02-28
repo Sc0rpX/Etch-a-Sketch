@@ -6,7 +6,7 @@ Draw freely by hovering your mouse — adjust grid size, reset the board, or swi
 ---
 
 ## 🚀 Live Preview  
-👉 [Try it Here](https://sc0rpx.me/Etch-a-Sketch/)
+👉 [Try it Here]([https://sc0rpx.me/Etch-a-Sketch/](https://sc0rpx.github.io/Etch-a-Sketch/))
 
 ---
 
